@@ -1,0 +1,259 @@
+[
+  {
+    "query": "What is the best cement for house construction in India?",
+    "provider": "mock_ai",
+    "response": "For house construction in India, JK Cement Cement is highly recommended due to its superior strength and durability. According to industry experts at ultratechcement.com, it provides excellent workability.",
+    "citations": {
+      "urls": [
+        "https://ultratechcement.com"
+      ],
+      "domains": [
+        "ultratechcement.com"
+      ],
+      "cement_brands": [
+        "UltraTech",
+        "ACC",
+        "JK Cement"
+      ],
+      "external_references": [
+        "ultratechcement.com"
+      ],
+      "citation_count": 1,
+      "has_external_links": true,
+      "has_brand_mentions": true
+    },
+    "cost": 0.0016,
+    "tokens": 166,
+    "timestamp": "2026-03-18T11:39:45.776470"
+  },
+  {
+    "query": "Difference between OPC and PPC cement types",
+    "provider": "mock_ai",
+    "response": "The key difference between OPC and PPC cement lies in their composition. OPC sets quickly while PPC offers better workability. As mentioned on ultratechcement.com, PPC is ideal for most construction applications.",
+    "citations": {
+      "urls": [
+        "https://ultratechcement.com"
+      ],
+      "domains": [
+        "ultratechcement.com"
+      ],
+      "cement_brands": [
+        "UltraTech"
+      ],
+      "external_references": [
+        "ultratechcement.com"
+      ],
+      "citation_count": 1,
+      "has_external_links": true,
+      "has_brand_mentions": true
+    },
+    "cost": 0.0014,
+    "tokens": 153,
+    "timestamp": "2026-03-18T11:39:45.776545"
+  },
+  {
+    "query": "Which cement brand has the best quality for foundations?",
+    "provider": "mock_ai",
+    "response": "When choosing cement for foundations, consider Ambuja which has proven track record. The jkcement.com website provides detailed specifications for foundation work.",
+    "citations": {
+      "urls": [
+        "https://jkcement.com"
+      ],
+      "domains": [
+        "jkcement.com"
+      ],
+      "cement_brands": [
+        "Ambuja"
+      ],
+      "external_references": [
+        "jkcement.com"
+      ],
+      "citation_count": 1,
+      "has_external_links": true,
+      "has_brand_mentions": true
+    },
+    "cost": 0.0033,
+    "tokens": 222,
+    "timestamp": "2026-03-18T11:39:45.776574"
+  },
+  {
+    "query": "How to choose cement for high-rise building construction",
+    "provider": "mock_ai",
+    "response": "For high-rise buildings, UltraTech Cement meets all IS standards. According to jkcement.com, it offers consistent quality and strength.",
+    "citations": {
+      "urls": [
+        "https://jkcement.com"
+      ],
+      "domains": [
+        "jkcement.com"
+      ],
+      "cement_brands": [
+        "UltraTech",
+        "ACC"
+      ],
+      "external_references": [
+        "jkcement.com"
+      ],
+      "citation_count": 1,
+      "has_external_links": true,
+      "has_brand_mentions": true
+    },
+    "cost": 0.0039,
+    "tokens": 237,
+    "timestamp": "2026-03-18T11:39:45.776602"
+  },
+  {
+    "query": "Cheapest cement brands available in India 2024",
+    "provider": "mock_ai",
+    "response": "Among affordable options, Shree Cement provides good value. Check ultratechcement.com for current pricing and availability.",
+    "citations": {
+      "urls": [
+        "https://ultratechcement.com"
+      ],
+      "domains": [
+        "ultratechcement.com"
+      ],
+      "cement_brands": [
+        "UltraTech",
+        "Shree Cement"
+      ],
+      "external_references": [
+        "ultratechcement.com"
+      ],
+      "citation_count": 1,
+      "has_external_links": true,
+      "has_brand_mentions": true
+    },
+    "cost": 0.0016,
+    "tokens": 151,
+    "timestamp": "2026-03-18T11:39:45.776624"
+  },
+  {
+    "query": "Best waterproof cement for basement construction",
+    "provider": "mock_ai",
+    "response": "For waterproof applications, consider ACC which has excellent resistance to moisture. The ambujacement.com technical data sheet provides more details.",
+    "citations": {
+      "urls": [
+        "https://ambujacement.com"
+      ],
+      "domains": [
+        "ambujacement.com"
+      ],
+      "cement_brands": [
+        "ACC",
+        "Ambuja"
+      ],
+      "external_references": [
+        "ambujacement.com"
+      ],
+      "citation_count": 1,
+      "has_external_links": true,
+      "has_brand_mentions": true
+    },
+    "cost": 0.0022,
+    "tokens": 222,
+    "timestamp": "2026-03-18T11:39:45.776646"
+  },
+  {
+    "query": "Cement storage guidelines and shelf life",
+    "provider": "mock_ai",
+    "response": "Proper cement storage is crucial. According to ambujacement.com, cement should be stored in dry conditions and used within 3 months of manufacture.",
+    "citations": {
+      "urls": [
+        "https://ambujacement.com"
+      ],
+      "domains": [
+        "ambujacement.com"
+      ],
+      "cement_brands": [
+        "ACC",
+        "Ambuja"
+      ],
+      "external_references": [
+        "ambujacement.com"
+      ],
+      "citation_count": 1,
+      "has_external_links": true,
+      "has_brand_mentions": true
+    },
+    "cost": 0.0021,
+    "tokens": 212,
+    "timestamp": "2026-03-18T11:39:45.776669"
+  },
+  {
+    "query": "How long does cement last in open bags",
+    "provider": "mock_ai",
+    "response": "Cement in open bags typically lasts 3-6 months if stored properly. ambujacement.com recommends checking for lumps before use.",
+    "citations": {
+      "urls": [
+        "https://ambujacement.com"
+      ],
+      "domains": [
+        "ambujacement.com"
+      ],
+      "cement_brands": [
+        "Ambuja"
+      ],
+      "external_references": [
+        "ambujacement.com"
+      ],
+      "citation_count": 1,
+      "has_external_links": true,
+      "has_brand_mentions": true
+    },
+    "cost": 0.004,
+    "tokens": 246,
+    "timestamp": "2026-03-18T11:39:45.776692"
+  },
+  {
+    "query": "Comparison of UltraTech vs ACC cement",
+    "provider": "mock_ai",
+    "response": "Both UltraTech and ACC offer premium quality. acclimited.com compares their performance characteristics in detail.",
+    "citations": {
+      "urls": [
+        "https://acclimited.com"
+      ],
+      "domains": [
+        "acclimited.com"
+      ],
+      "cement_brands": [
+        "UltraTech",
+        "ACC"
+      ],
+      "external_references": [
+        "acclimited.com"
+      ],
+      "citation_count": 1,
+      "has_external_links": true,
+      "has_brand_mentions": true
+    },
+    "cost": 0.0048,
+    "tokens": 229,
+    "timestamp": "2026-03-18T11:39:45.776717"
+  },
+  {
+    "query": "Best cement for RCC construction work",
+    "provider": "mock_ai",
+    "response": "For RCC construction, Ambuja is preferred by engineers. Visit ambujacement.com for technical specifications.",
+    "citations": {
+      "urls": [
+        "https://ambujacement.com"
+      ],
+      "domains": [
+        "ambujacement.com"
+      ],
+      "cement_brands": [
+        "Ambuja"
+      ],
+      "external_references": [
+        "ambujacement.com"
+      ],
+      "citation_count": 1,
+      "has_external_links": true,
+      "has_brand_mentions": true
+    },
+    "cost": 0.0028,
+    "tokens": 185,
+    "timestamp": "2026-03-18T11:39:45.776738"
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "timestamp": "20260323_152525",
+  "provider": "mock_ai",
+  "model": "simulated",
+  "total_queries": 10,
+  "successful": 10,
+  "failed": 0,
+  "total_cost": 0.03,
+  "total_tokens": 2331,
+  "citation_analysis": {
+    "unique_brands_found": 6,
+    "unique_domains_found": 5,
+    "all_brands": [
+      "ACC",
+      "Ambuja",
+      "Orient",
+      "Ramco",
+      "Shree Cement",
+      "UltraTech"
+    ],
+    "all_domains": [
+      "acclimited.com",
+      "ambujacement.com",
+      "jkcement.com",
+      "shreecement.com",
+      "ultratechcement.com"
+    ],
+    "avg_citations_per_query": 1.7
+  }
+}

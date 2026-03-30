@@ -1,0 +1,562 @@
+[
+  {
+    "query": "best cement for house construction in India",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:06.597322",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement brand has best quality in India",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:06.603207",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "difference between OPC and PPC cement",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:06.611141",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "cheapest cement brands in India 2024",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:10.150186",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "cement for foundation work",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:11.186755",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "best cement for waterproofing",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:11.200698",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "cement storage guidelines",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:19.194866",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "how long does cement last in bags",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:19.196307",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "best cement for high-rise buildings",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:19.204707",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "Ultratech vs JK cement which is better",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:27.211636",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "cement quality testing methods",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:27.223782",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "Ambuja vs ACC cement comparison",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:31.213944",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "Shree Cement vs Ramco Cement",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:35.198957",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "Dalmia vs Birla cement quality",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:39.188526",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "Orient Cement vs Heidelberg Cement",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:39.196941",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "best cement in Maharashtra",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:43.210344",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "top cement brands in Karnataka",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:47.194486",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "cement brands in Tamil Nadu",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:51.192206",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "cement quality in Gujarat",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:51.202867",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "best cement for Delhi NCR",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:55.199122",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "cement compressive strength grades",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:21:59.187190",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "setting time of different cement types",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:03.197904",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "heat of hydration in cement",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:03.210713",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "cement fineness and its importance",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:07.210409",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "sulfate resistance in cement",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:11.197402",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "largest cement producers in India",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:15.196534",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "cement industry growth in India",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:15.209038",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "green cement technology",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:19.204713",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "cement exports from India",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:23.186678",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "automated cement plants in India",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:27.198677",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "how to check cement quality at site",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:27.207131",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "cement mixing ratio for concrete",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:31.207934",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "plastering cement requirements",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:35.195123",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "cement for tile fixing",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:39.198117",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "repairing cracked cement walls",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:39.200363",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "cement price per bag today",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:43.186065",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "bulk cement purchase discounts",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:47.211533",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "imported vs local cement prices",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:51.191464",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "government subsidized cement schemes",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:51.208014",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "cement price trends 2024",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-15T16:22:53.318857",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  }
+]

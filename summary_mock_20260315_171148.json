@@ -1,0 +1,30 @@
+{
+  "timestamp": "20260315_171148",
+  "provider": "mock_ai",
+  "model": "simulated",
+  "total_queries": 10,
+  "successful": 10,
+  "failed": 0,
+  "total_cost": 0.0319,
+  "total_tokens": 2363,
+  "citation_analysis": {
+    "unique_brands_found": 6,
+    "unique_domains_found": 5,
+    "all_brands": [
+      "ACC",
+      "Ambuja",
+      "JK Cement",
+      "Lafarge",
+      "Shree Cement",
+      "UltraTech"
+    ],
+    "all_domains": [
+      "acclimited.com",
+      "ambujacement.com",
+      "jkcement.com",
+      "shreecement.com",
+      "ultratechcement.com"
+    ],
+    "avg_citations_per_query": 1.4
+  }
+}
