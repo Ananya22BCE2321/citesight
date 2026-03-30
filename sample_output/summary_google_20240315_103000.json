@@ -1,0 +1,47 @@
+{
+  "run_timestamp": "2024-03-15T10:30:00.000Z",
+  "provider": "google",
+  "model": "gemini-1.5-flash",
+  "total_queries": 25,
+  "successful_queries": 23,
+  "failed_queries": 2,
+  "success_rate": 92.0,
+  "total_cost": 0.00475,
+  "total_tokens": 3750,
+  "average_cost_per_query": 0.00019,
+  "average_tokens_per_query": 150,
+  "citation_summary": {
+    "responses_with_citations": 18,
+    "total_citations": 32,
+    "average_citations_per_response": 1.28,
+    "unique_domains_cited": 12,
+    "unique_brands_mentioned": 8,
+    "top_cited_domains": [
+      {"domain": "ambuja.com", "count": 8},
+      {"domain": "acccement.com", "count": 6},
+      {"domain": "ultratech.com", "count": 5},
+      {"domain": "jkcement.com", "count": 4},
+      {"domain": "shreecement.com", "count": 3}
+    ],
+    "top_mentioned_brands": [
+      {"brand": "ambuja", "count": 12},
+      {"brand": "acc", "count": 9},
+      {"brand": "ultratech", "count": 8},
+      {"brand": "jk", "count": 6},
+      {"brand": "shree", "count": 4}
+    ]
+  },
+  "performance_metrics": {
+    "total_runtime_seconds": 45.2,
+    "queries_per_second": 0.55,
+    "average_response_time": 1.81,
+    "rate_limit_hits": 0,
+    "retry_attempts": 3
+  },
+  "error_breakdown": {
+    "rate_limit_exceeded": 1,
+    "api_timeout": 1,
+    "content_filter": 0,
+    "other": 0
+  }
+}

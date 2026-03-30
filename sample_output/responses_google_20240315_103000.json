@@ -1,0 +1,68 @@
+[
+  {
+    "query": "best cement for house construction in India",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": "For house construction in India, several cement brands are highly regarded. Ambuja Cement is often recommended for its consistent quality and wide availability. According to ambuja.com, their Portland Pozzolana Cement (PPC) is ideal for residential construction due to its durability and resistance to cracking. ACC Cement also offers excellent options, with their ACC Gold being popular for home building projects. Many construction experts suggest using OPC (Ordinary Portland Cement) for foundation work and PPC for plastering and masonry work.",
+    "timestamp": "2024-03-15T10:30:00.000Z",
+    "usage": {
+      "prompt_tokens": 45,
+      "completion_tokens": 105,
+      "total_tokens": 150
+    },
+    "cost": 0.000225,
+    "citations": {
+      "urls": ["https://ambuja.com"],
+      "domains": ["ambuja.com"],
+      "cement_brands": ["ambuja", "acc"],
+      "external_references": [],
+      "citation_count": 1,
+      "has_external_links": true,
+      "has_brand_mentions": true
+    }
+  },
+  {
+    "query": "difference between OPC and PPC cement",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": "OPC (Ordinary Portland Cement) and PPC (Portland Pozzolana Cement) are two common types of cement used in construction. OPC sets faster and develops higher early strength, making it suitable for applications requiring quick setting like concrete foundations and precast items. PPC, on the other hand, has better long-term strength and is more resistant to chemical attacks and cracking. According to JK Cement's technical specifications, PPC contains fly ash which improves workability and reduces heat of hydration. Ultratech Cement recommends PPC for most residential construction due to its superior durability and eco-friendly properties.",
+    "timestamp": "2024-03-15T10:30:05.000Z",
+    "usage": {
+      "prompt_tokens": 42,
+      "completion_tokens": 118,
+      "total_tokens": 160
+    },
+    "cost": 0.00024,
+    "citations": {
+      "urls": [],
+      "domains": ["jkcement.com"],
+      "cement_brands": ["jk", "ultratech"],
+      "external_references": ["jkcement.com", "ultratechcement.com"],
+      "citation_count": 0,
+      "has_external_links": false,
+      "has_brand_mentions": true
+    }
+  },
+  {
+    "query": "which cement brand has best quality in India",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": "Determining the 'best' cement brand in India depends on specific requirements, but several brands consistently rank high in quality testing. Ambuja Cement, ACC Cement, and Ultratech Cement are frequently cited as top performers. According to BIS (Bureau of Indian Standards) quality reports, these brands maintain excellent consistency in compressive strength and setting time. Shree Cement has also gained recognition for its premium products. For the highest quality assurance, look for brands that are ISO 9001 certified and have extensive quality control processes.",
+    "timestamp": "2024-03-15T10:30:10.000Z",
+    "usage": {
+      "prompt_tokens": 38,
+      "completion_tokens": 95,
+      "total_tokens": 133
+    },
+    "cost": 0.000199,
+    "citations": {
+      "urls": [],
+      "domains": [],
+      "cement_brands": ["ambuja", "acc", "ultratech", "shree"],
+      "external_references": [],
+      "citation_count": 0,
+      "has_external_links": false,
+      "has_brand_mentions": true
+    }
+  }
+]
