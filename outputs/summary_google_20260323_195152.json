@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260323_195152",
+  "provider": "google",
+  "model": "gemini-1.5-flash",
+  "total_queries": 5,
+  "successful": 0,
+  "failed": 5,
+  "budget_stopped": 0,
+  "total_cost_usd": 0.0,
+  "total_tokens": 0,
+  "output_file": "outputs\\responses_google_20260323_195152.json",
+  "failure_file": "outputs\\failures_google_20260323_195152.json"
+}

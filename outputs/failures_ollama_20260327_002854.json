@@ -1,0 +1,184 @@
+[
+  {
+    "query": "which cement is best for house construction in India",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:28:35.907617",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for foundations and footings",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:28:35.909855",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for high-rise buildings",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:28:38.940752",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for plastering walls",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:28:38.943145",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for waterproofing basement construction",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:28:41.977503",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for flooring and tiles",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:28:41.979191",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for RCC slabs",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:28:45.009181",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "OPC vs PPC cement which is better for structural concrete",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:28:45.012396",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for roof casting",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:28:48.040990",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement should I use for boundary walls",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:28:48.056152",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "best cement for swimming pool construction",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:28:51.073668",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for road construction in India",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:28:51.077258",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "best cement for precast concrete elements",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:28:54.107937",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  }
+]

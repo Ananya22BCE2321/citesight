@@ -1,0 +1,253 @@
+[
+  {
+    "query": "which cement is best for high-rise buildings",
+    "engine": "nvidia",
+    "model": "meta/llama-3.1-8b-instruct",
+    "response": "For high-rise buildings, the best cement is one that provides high strength, durability, and resistance to environmental factors such as heat, cold, and moisture. Based on these requirements, here are some of the most suitable cements for high-rise buildings:\n\n1. **Portland Pozzolana Cement (PPC)**: PPC is a type of cement that contains pozzolanic materials like fly ash, which improves its workability, durability, and resistance to sulfate attacks. PPC is suitable for high-rise buildings due to its high strength and durability.\n2. **Portland Slag Cement (PSC)**: PSC is another type of cement that contains slag, which is a by-product of steel manufacturing. PSC has a higher strength and durability than OPC (Ordinary Portland Cement) and is suitable for high-rise buildings.\n3. **High-Strength Cement**: High-strength cement is a type of cement that has been designed to provide higher strength and durability than traditional cements. It is often used in high-rise buildings due to its ability to withstand heavy loads and environmental stresses.\n4. **Supersulfate Cement**: Supersulfate cement is a type of cement that contains a high amount of gypsum, which improves its workability and durability. It is suitable for high-rise buildings due to its high strength and resistance to sulfate attacks.\n5. **Ultra-High-Performance Cement (UHPC)**: UHPC is a type of cement that has been designed to provide extremely high strength and durability. It is often used in high-rise buildings due to its ability to withstand heavy loads and environmental stresses.\n\nWhen selecting a cement for a high-rise building, it's essential to consider the following factors:\n\n1. **Compressive strength**: The cement should have a high compressive strength to withstand heavy loads.\n2. **Durability**: The cement should be resistant to environmental factors such as heat, cold, and moisture.\n3. **Workability**: The cement should be easy to mix and place.\n4. **Sustainability**: The cement should be environmentally friendly and have a low carbon footprint.\n5. **Cost**: The cement should be cost-effective without compromising on quality.\n\nIt's recommended to consult with a structural engineer or a cement expert to determine the best cement for a specific high-rise building project.",
+    "timestamp": "2026-03-27T00:22:10.835386",
+    "usage": {
+      "prompt_tokens": 43,
+      "completion_tokens": 467,
+      "total_tokens": 510
+    },
+    "cost": 0.0,
+    "citations": {
+      "urls": [],
+      "domains": [],
+      "cement_brands": [],
+      "external_references": [],
+      "citation_count": 0,
+      "has_external_links": false,
+      "has_brand_mentions": false
+    }
+  },
+  {
+    "query": "which cement is best for house construction in India",
+    "engine": "nvidia",
+    "model": "meta/llama-3.1-8b-instruct",
+    "response": "In India, the best cement for house construction depends on several factors such as the region, climate, and personal preferences. However, here are some of the top cement brands in India that are popular for house construction:\n\n1. **ACC Cement**: ACC (Aadil Cement) is one of the oldest and most trusted cement brands in India. It offers a range of cement products, including Portland Pozzolana Cement (PPC), which is suitable for house construction.\n2. **Ambuja Cement**: Ambuja Cement is another well-known brand in India, offering high-quality cement products, including PPC and Ordinary Portland Cement (OPC). It's a popular choice for house construction due to its durability and strength.\n3. **UltraTech Cement**: UltraTech Cement is a leading cement brand in India, offering a wide range of cement products, including PPC, OPC, and White Cement. It's known for its high-quality and durability, making it a popular choice for house construction.\n4. **JK Cement**: JK Cement is a well-established brand in India, offering high-quality cement products, including PPC and OPC. It's a popular choice for house construction due to its durability and strength.\n5. **Shree Cement**: Shree Cement is another popular cement brand in India, offering high-quality cement products, including PPC and OPC. It's known for its durability and strength, making it a popular choice for house construction.\n\nIn terms of the specific type of cement, here are some recommendations:\n\n* **Portland Pozzolana Cement (PPC)**: PPC is a popular choice for house construction in India, as it offers high durability and strength. It's also resistant to acid and sulfate attacks, making it suitable for construction in areas with high humidity and temperature fluctuations.\n* **Ordinary Portland Cement (OPC)**: OPC is another popular choice for house construction in India, offering high strength and durability. It's suitable for construction in areas with moderate humidity and temperature fluctuations.\n\nWhen choosing a cement brand for house construction in India, consider the following factors:\n\n* **Durability**: Look for cement brands that offer high durability and strength, ensuring that your house can withstand various weather conditions.\n* **Resistance to acid and sulfate attacks**: If you're building a house in an area with high humidity and temperature fluctuations, consider a cement brand that offers resistance to acid and sulfate attacks.\n* **Compliance with Indian Standards**: Ensure that the cement brand you choose complies with Indian Standards (IS",
+    "timestamp": "2026-03-27T00:22:10.961592",
+    "usage": {
+      "prompt_tokens": 44,
+      "completion_tokens": 500,
+      "total_tokens": 544
+    },
+    "cost": 0.0,
+    "citations": {
+      "urls": [],
+      "domains": [],
+      "cement_brands": [
+        "shree",
+        "ambuja",
+        "jk",
+        "ultratech",
+        "acc"
+      ],
+      "external_references": [],
+      "citation_count": 0,
+      "has_external_links": false,
+      "has_brand_mentions": true
+    }
+  },
+  {
+    "query": "which cement is best for foundations and footings",
+    "engine": "nvidia",
+    "model": "meta/llama-3.1-8b-instruct",
+    "response": "For foundations and footings, you'll want to use a type of cement that provides high strength, durability, and resistance to water and freeze-thaw cycles. Here are some options:\n\n1. **Type I Cement**: Also known as ordinary Portland cement (OPC), this is a general-purpose cement suitable for foundations and footings. It has a moderate strength and is relatively affordable.\n2. **Type II Cement**: This type of cement is similar to Type I but has a higher strength and is more resistant to sulfate attack. It's a good choice for foundations and footings that will be exposed to moisture.\n3. **Type III Cement**: This type of cement is a high-strength cement that's often used for high-rise construction and heavy-duty foundations. It's more expensive than Type I or II cement but provides excellent strength and durability.\n4. **Masonry Cement**: This type of cement is specifically designed for masonry applications, including foundations and footings. It contains additives that improve its workability, strength, and durability.\n5. **High-Performance Cement**: Some modern cements are designed to provide even higher strength and durability than traditional types. These cements often contain advanced additives and are more expensive than traditional types.\n\nWhen choosing a cement for foundations and footings, consider the following factors:\n\n* **Strength**: Look for cements with high compressive strength (e.g., 3,000 psi or higher).\n* **Durability**: Choose cements that are resistant to water, freeze-thaw cycles, and sulfate attack.\n* **Workability**: Select cements that are easy to mix and work with, especially if you're using a concrete mixer or pump.\n* **Cost**: Balance the cost of the cement with its performance and durability.\n\nSome popular cement brands for foundations and footings include:\n\n* **Lafarge**: Offers a range of cements, including Type I, II, and III.\n* **Holcim**: Provides high-performance cements, including Type III and specialized masonry cements.\n* **Cemex**: Offers a variety of cements, including Type I, II, and III, as well as high-performance options.\n* **Quikrete**: Known for their high-quality masonry cements and mortars.\n\nRemember to always follow the manufacturer's instructions and local building codes when selecting and using cement for foundations and footings.",
+    "timestamp": "2026-03-27T00:22:11.043457",
+    "usage": {
+      "prompt_tokens": 44,
+      "completion_tokens": 483,
+      "total_tokens": 527
+    },
+    "cost": 0.0,
+    "citations": {
+      "urls": [],
+      "domains": [],
+      "cement_brands": [
+        "lafarge",
+        "holcim"
+      ],
+      "external_references": [],
+      "citation_count": 0,
+      "has_external_links": false,
+      "has_brand_mentions": true
+    }
+  },
+  {
+    "query": "which cement is best for plastering walls",
+    "engine": "nvidia",
+    "model": "meta/llama-3.1-8b-instruct",
+    "response": "When it comes to plastering walls, the best cement for the job is one that is specifically designed for plastering and has the following properties:\n\n1. **High strength**: The cement should have high compressive strength to ensure that the plastered wall can withstand normal loads and stresses.\n2. **Good workability**: The cement should be easy to mix and apply, with a smooth and consistent texture.\n3. **Low shrinkage**: The cement should have low shrinkage to minimize the risk of cracking and ensure a smooth finish.\n4. **Good bonding**: The cement should have good bonding properties to ensure a strong bond between the plaster and the wall surface.\n\nBased on these requirements, some of the best cements for plastering walls are:\n\n1. **OPC (Ordinary Portland Cement) 53 Grade**: This is a popular choice for plastering walls, with a high compressive strength and good workability.\n2. **OPC 43 Grade**: This cement is also suitable for plastering walls, with a slightly lower compressive strength than 53 Grade OPC, but still suitable for most applications.\n3. **Sulfate Resistant Cement (SRC)**: This cement is designed for use in areas where the soil contains high levels of sulfate, which can cause damage to the cement.\n4. **White Cement**: This cement is used for decorative plastering and has a high compressive strength and good workability.\n5. **Portland Pozzolana Cement (PPC)**: This cement is a blend of OPC and pozzolanic materials, such as fly ash or silica fume, which improves its strength and workability.\n\nIn terms of specific brands, some popular options include:\n\n1. **ACC (Ambuja Cement)**: Offers a range of cements suitable for plastering walls, including OPC 53 Grade and SRC.\n2. **UltraTech Cement**: Offers a range of cements suitable for plastering walls, including OPC 53 Grade and PPC.\n3. **J.K. Cement**: Offers a range of cements suitable for plastering walls, including OPC 53 Grade and SRC.\n4. **Dalmia Cement**: Offers a range of cements suitable for plastering walls, including OPC 53 Grade and PPC.\n\nIt's always a good idea to consult with a professional or check the manufacturer's recommendations for the specific cement to use for your plastering project.",
+    "timestamp": "2026-03-27T00:22:13.751421",
+    "usage": {
+      "prompt_tokens": 43,
+      "completion_tokens": 488,
+      "total_tokens": 531
+    },
+    "cost": 0.0,
+    "citations": {
+      "urls": [],
+      "domains": [],
+      "cement_brands": [
+        "dalmia",
+        "ambuja",
+        "ultratech",
+        "acc"
+      ],
+      "external_references": [],
+      "citation_count": 0,
+      "has_external_links": false,
+      "has_brand_mentions": true
+    }
+  },
+  {
+    "query": "which cement is best for waterproofing basement construction",
+    "engine": "nvidia",
+    "model": "meta/llama-3.1-8b-instruct",
+    "response": "For waterproofing basement construction, it's essential to use a high-quality cement that can resist water penetration and last long. Based on their properties and performance, here are some of the best cements for waterproofing basement construction:\n\n1. **Portland Pozzolana Cement (PPC)**: PPC is a blend of Portland cement and pozzolanic materials like fly ash or silica fume. It offers improved durability, water resistance, and resistance to chemical attacks. PPC is an excellent choice for waterproofing basement construction.\n2. **Portland Slag Cement (PSC)**: PSC is a type of cement that contains a high percentage of slag, which is a by-product of steel production. PSC has excellent durability, water resistance, and resistance to chemical attacks. It's also a good choice for waterproofing basement construction.\n3. **Hydration-Resistant Cement (HRC)**: HRC is a type of cement that is designed to resist water penetration and last longer. It contains special additives that help to reduce the risk of water damage and improve the overall durability of the structure.\n4. **Fiber-Reinforced Cement (FRC)**: FRC is a type of cement that contains fibers like polypropylene or steel. These fibers help to improve the tensile strength and durability of the cement, making it an excellent choice for waterproofing basement construction.\n5. **Specialty Cements**: Some manufacturers offer specialty cements that are specifically designed for waterproofing applications. These cements may contain additional additives or fibers that enhance their water resistance and durability.\n\nWhen selecting a cement for waterproofing basement construction, consider the following factors:\n\n1. **Water absorption**: Look for cements with low water absorption rates to minimize the risk of water damage.\n2. **Durability**: Choose cements that offer high durability and resistance to chemical attacks.\n3. **Compressive strength**: Select cements with high compressive strength to ensure that the structure can withstand external loads.\n4. **Adhesion**: Ensure that the cement has good adhesion properties to prevent water from seeping into the structure.\n5. **Certifications**: Look for cements that meet international standards and certifications, such as ASTM or EN standards.\n\nSome popular brands of waterproofing cements include:\n\n1. **Sika**\n2. **BASF**\n3. **Cementir**\n4. **Holcim**\n5. **Lafarge**\n\nIt's essential to consult with a",
+    "timestamp": "2026-03-27T00:22:13.953401",
+    "usage": {
+      "prompt_tokens": 44,
+      "completion_tokens": 500,
+      "total_tokens": 544
+    },
+    "cost": 0.0,
+    "citations": {
+      "urls": [],
+      "domains": [],
+      "cement_brands": [
+        "lafarge",
+        "holcim"
+      ],
+      "external_references": [],
+      "citation_count": 0,
+      "has_external_links": false,
+      "has_brand_mentions": true
+    }
+  },
+  {
+    "query": "which cement is best for flooring and tiles",
+    "engine": "nvidia",
+    "model": "meta/llama-3.1-8b-instruct",
+    "response": "The best cement for flooring and tiles depends on the specific application, climate, and desired properties. Here are some popular cement options for flooring and tiles:\n\n1. **Portland Pozzolana Cement (PPC)**: This cement is a blend of Portland cement and pozzolana (a natural siliceous or calcareous material). PPC is suitable for flooring and tiles as it provides good strength, durability, and resistance to chemical attacks.\n2. **Hydraulic Cement**: This cement is designed for use in wet conditions and is suitable for flooring and tiles that are exposed to water. It provides good strength and resistance to water and chemical attacks.\n3. **Specialized Tile Adhesive Cement**: This cement is specifically designed for use with tiles and provides a strong bond between the tile and the substrate. It is usually a blend of cement, sand, and other additives.\n4. **Acrylic Cement**: This cement is a polymer-modified cement that provides good flexibility and resistance to cracking. It is suitable for flooring and tiles that are subject to high traffic and movement.\n5. **Mortar Cement**: This cement is a blend of cement, sand, and other additives that provides good strength and durability. It is suitable for flooring and tiles that require a strong bond between the tile and the substrate.\n\nSome popular cement brands for flooring and tiles include:\n\n1. **Lafarge**: Offers a range of cements, including PPC and hydraulic cement.\n2. **Holcim**: Offers a range of cements, including PPC and specialized tile adhesive cement.\n3. **UltraTech Cement**: Offers a range of cements, including PPC and hydraulic cement.\n4. **Ambuja Cement**: Offers a range of cements, including PPC and specialized tile adhesive cement.\n5. **ACC Cement**: Offers a range of cements, including PPC and hydraulic cement.\n\nWhen choosing a cement for flooring and tiles, consider the following factors:\n\n1. **Strength**: Look for cements with high compressive strength to ensure durability and resistance to wear and tear.\n2. **Durability**: Choose cements that are resistant to chemical attacks and water damage.\n3. **Adhesion**: Select cements that provide a strong bond between the tile and the substrate.\n4. **Flexibility**: Consider cements that provide good flexibility to resist cracking and movement.\n5. **Cost**: Balance the cost of the cement with its performance and durability.\n\nUltimately, the best cement for flooring and tiles will",
+    "timestamp": "2026-03-27T00:22:13.963117",
+    "usage": {
+      "prompt_tokens": 43,
+      "completion_tokens": 500,
+      "total_tokens": 543
+    },
+    "cost": 0.0,
+    "citations": {
+      "urls": [],
+      "domains": [],
+      "cement_brands": [
+        "ambuja",
+        "lafarge",
+        "ultratech",
+        "acc",
+        "holcim"
+      ],
+      "external_references": [],
+      "citation_count": 0,
+      "has_external_links": false,
+      "has_brand_mentions": true
+    }
+  },
+  {
+    "query": "which cement is best for RCC slabs",
+    "engine": "nvidia",
+    "model": "meta/llama-3.1-8b-instruct",
+    "response": "The best cement for RCC (Reinforced Cement Concrete) slabs is a matter of debate, and the choice often depends on various factors such as climate, load, and durability requirements. However, here are some general guidelines:\n\n**Recommended cement types for RCC slabs:**\n\n1. **Portland Pozzolana Cement (PPC)**: This cement is a blend of Portland cement and pozzolanic materials like fly ash or silica fume. PPC is more durable, resistant to chemical attacks, and has better workability than ordinary Portland cement (OPC). It's a good choice for RCC slabs, especially in areas with high humidity or exposure to chemicals.\n2. **Portland Slag Cement (PSC)**: This cement is a blend of Portland cement and granulated slag. PSC is more durable, resistant to sulfate attacks, and has better workability than OPC. It's a good choice for RCC slabs, especially in areas with high sulfate concentrations.\n3. **Ordinary Portland Cement (OPC)**: While not as durable as PPC or PSC, OPC is still a popular choice for RCC slabs. It's relatively inexpensive and widely available.\n\n**Key characteristics to look for:**\n\n1. **Compressive strength**: Look for cements with a high compressive strength (e.g., 43 MPa or higher) to ensure the RCC slab can withstand loads.\n2. **Durability**: Choose cements with good durability characteristics, such as resistance to chemical attacks, sulfate resistance, and freeze-thaw resistance.\n3. **Workability**: Select cements with good workability, which will make it easier to mix and place the concrete.\n4. **Admixtures**: Some cements may contain admixtures that enhance workability, flowability, or durability.\n\n**Popular cement brands:**\n\n1. **ACC (Aditya Birla Cement)**\n2. **JK Cement**\n3. **UltraTech Cement**\n4. **Ambuja Cement**\n5. **Holcim (India)**\n6. **Shree Cement**\n\n**Final note:**\n\nWhile the above recommendations are general guidelines, it's essential to consult with a structural engineer or a concrete expert to determine the best cement type for your specific RCC slab project. They can assess the project's requirements, climate, and exposure conditions to recommend the most suitable cement type.",
+    "timestamp": "2026-03-27T00:22:16.620618",
+    "usage": {
+      "prompt_tokens": 43,
+      "completion_tokens": 484,
+      "total_tokens": 527
+    },
+    "cost": 0.0,
+    "citations": {
+      "urls": [],
+      "domains": [],
+      "cement_brands": [
+        "shree",
+        "ambuja",
+        "jk",
+        "birla",
+        "ultratech",
+        "acc",
+        "holcim"
+      ],
+      "external_references": [],
+      "citation_count": 0,
+      "has_external_links": false,
+      "has_brand_mentions": true
+    }
+  },
+  {
+    "query": "which cement is best for roof casting",
+    "engine": "nvidia",
+    "model": "meta/llama-3.1-8b-instruct",
+    "response": "When it comes to roof casting, the best type of cement to use depends on several factors, including the type of roof, the climate, and the desired durability and appearance. Here are some common types of cement used for roof casting:\n\n1. **Portland Cement**: This is the most commonly used cement for roof casting. It's a general-purpose cement that's suitable for most roof applications. It's available in various grades, including Type I, Type II, and Type III, which differ in their strength and durability.\n2. **White Cement**: White cement is a good choice for roof casting when a light-colored finish is desired. It's made from white limestone or marble and is often used for decorative roof casting, such as arches, domes, and other ornate features.\n3. **High-Alumina Cement (HAC)**: HAC is a type of cement that's particularly suitable for roof casting in areas with high temperatures and humidity. It has a high strength and durability, making it a good choice for roofs that are exposed to harsh weather conditions.\n4. **Silica Fume Cement**: This type of cement is made from silica fume, a byproduct of silicon metal production. It's a high-strength cement that's often used for roof casting in areas with high temperatures and humidity.\n5. **Fiber-Reinforced Cement (FRC)**: FRC is a type of cement that's reinforced with fibers, such as steel or glass. It's a good choice for roof casting when a high level of durability and resistance to cracking is required.\n\nIn terms of the best cement for roof casting, I would recommend **Type III Portland Cement**. It's a high-strength cement that's suitable for most roof applications and provides a good balance between durability and cost.\n\nHere are some key benefits of using Type III Portland Cement for roof casting:\n\n* High strength and durability\n* Good resistance to cracking and weathering\n* Suitable for most roof applications\n* Available in a range of grades and types\n* Cost-effective compared to other high-strength cements\n\nHowever, it's essential to note that the specific type of cement to use will depend on the local climate, roof design, and other factors. It's always a good idea to consult with a professional or conduct further research before making a final decision.",
+    "timestamp": "2026-03-27T00:22:16.696224",
+    "usage": {
+      "prompt_tokens": 42,
+      "completion_tokens": 474,
+      "total_tokens": 516
+    },
+    "cost": 0.0,
+    "citations": {
+      "urls": [],
+      "domains": [],
+      "cement_brands": [],
+      "external_references": [],
+      "citation_count": 0,
+      "has_external_links": false,
+      "has_brand_mentions": false
+    }
+  },
+  {
+    "query": "OPC vs PPC cement which is better for structural concrete",
+    "engine": "nvidia",
+    "model": "meta/llama-3.1-8b-instruct",
+    "response": "OPC (Ordinary Portland Cement) and PPC (Portland Pozzolana Cement) are both popular types of cement used in construction. However, when it comes to structural concrete, PPC cement is generally considered better than OPC cement due to its improved durability and sustainability.\n\n**Advantages of PPC Cement over OPC Cement:**\n\n1. **Improved Durability:** PPC cement contains pozzolanic materials like fly ash, which reacts with calcium hydroxide in the cement to form calcium silicate hydrate, a more stable and durable compound. This makes PPC cement more resistant to chemical attacks, sulfate resistance, and alkali-silica reaction.\n2. **Enhanced Workability:** PPC cement has better workability and flowability, making it easier to mix and place concrete. This results in a more uniform and consistent concrete mix.\n3. **Reduced Shrinkage:** PPC cement has lower shrinkage rates compared to OPC cement, which reduces the risk of cracking and shrinkage-related problems in concrete structures.\n4. **Sustainability:** PPC cement is made from industrial by-products like fly ash, which reduces the need for raw materials and decreases the carbon footprint of cement production.\n5. **Cost-Effective:** PPC cement is often cheaper than OPC cement, making it a more cost-effective option for structural concrete applications.\n\n**When to use PPC Cement over OPC Cement:**\n\n1. **Structural Concrete:** PPC cement is ideal for structural concrete applications, such as buildings, bridges, and high-rise structures, where durability and sustainability are critical.\n2. **High-Volume Fly Ash Concrete:** PPC cement is well-suited for high-volume fly ash concrete (HVFA) applications, which can reduce the environmental impact of cement production.\n3. **Exposed Concrete:** PPC cement is a good choice for exposed concrete applications, such as architectural features or decorative elements, where a more durable and sustainable material is desired.\n\n**When to use OPC Cement:**\n\n1. **High-Strength Concrete:** OPC cement is still the preferred choice for high-strength concrete applications, such as precast concrete products or high-performance concrete.\n2. **Specialized Applications:** OPC cement may be required for specialized applications, such as concrete repair or restoration, where its high early strength and rapid setting properties are beneficial.\n\nIn summary, PPC cement is generally considered better than OPC cement for structural concrete applications due to its improved durability, workability, and sustainability. However, OPC cement still has its place in specific applications where",
+    "timestamp": "2026-03-27T00:22:16.786406",
+    "usage": {
+      "prompt_tokens": 46,
+      "completion_tokens": 500,
+      "total_tokens": 546
+    },
+    "cost": 0.0,
+    "citations": {
+      "urls": [],
+      "domains": [],
+      "cement_brands": [],
+      "external_references": [],
+      "citation_count": 0,
+      "has_external_links": false,
+      "has_brand_mentions": false
+    }
+  },
+  {
+    "query": "which cement should I use for boundary walls",
+    "engine": "nvidia",
+    "model": "meta/llama-3.1-8b-instruct",
+    "response": "For building boundary walls, you'll want to use a type of cement that is durable, long-lasting, and can withstand exposure to the elements. Here are some factors to consider and a few cement options that are suitable for boundary walls:\n\n**Factors to consider:**\n\n1. **Strength**: The cement should have high compressive strength to withstand the weight of the wall and any external loads.\n2. **Durability**: The cement should be resistant to weathering, erosion, and chemical attacks.\n3. **Workability**: The cement should be easy to mix and work with, especially in hot weather.\n4. **Cost**: The cement should be cost-effective without compromising on quality.\n\n**Cement options:**\n\n1. **Portland Cement (OPC)**: This is a popular choice for boundary walls. It has high compressive strength (up to 50 MPa) and is available in various grades, such as OPC 33, OPC 43, and OPC 53.\n2. **Portland Pozzolana Cement (PPC)**: This cement is made by blending OPC with pozzolanic materials like fly ash or silica fume. It has similar strength to OPC and is more resistant to sulfate attacks.\n3. **Portland Slag Cement (PSC)**: This cement is made by blending OPC with ground granulated blast furnace slag. It has high strength (up to 50 MPa) and is resistant to sulfate attacks.\n4. **Supersulfated Cement**: This cement is made by blending OPC with gypsum and other materials. It has high strength (up to 60 MPa) and is resistant to sulfate attacks.\n\n**Recommendation:**\n\nFor boundary walls, I would recommend using OPC 43 or OPC 53 cement, which have high compressive strength and are suitable for external exposure. If you're looking for a more durable option, consider using PPC or PSC cement.\n\n**Additional tips:**\n\n1. **Use a cement with a high sulfate resistance**: Boundary walls are often exposed to water and soil, which can contain sulfates that can attack the cement.\n2. **Choose a cement with a low alkali content**: High alkali content can lead to efflorescence and other problems.\n3. **Follow the manufacturer's instructions**: Always follow the manufacturer's instructions for mixing and application of the cement.\n4. **Use a good quality aggregate**: The aggregate should be clean, dry, and free from contaminants to ensure a",
+    "timestamp": "2026-03-27T00:22:19.259524",
+    "usage": {
+      "prompt_tokens": 43,
+      "completion_tokens": 500,
+      "total_tokens": 543
+    },
+    "cost": 0.0,
+    "citations": {
+      "urls": [],
+      "domains": [],
+      "cement_brands": [],
+      "external_references": [],
+      "citation_count": 0,
+      "has_external_links": false,
+      "has_brand_mentions": false
+    }
+  }
+]

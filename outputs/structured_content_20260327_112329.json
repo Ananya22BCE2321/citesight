@@ -1,0 +1,43 @@
+{
+  "structured_at": "2026-03-27T11:23:29.917900",
+  "source_file": "2026-03-27T11:14:58.821116",
+  "total_items": 4,
+  "structured_content": [
+    {
+      "query": "which cement is best for waterproofing",
+      "error": "Content generation failed",
+      "generated_at": "2026-03-27T11:14:58.818929",
+      "structuring_report": {
+        "error": "Content generation failed - cannot structure",
+        "geo_score": 0.0
+      }
+    },
+    {
+      "query": "UltraTech vs ACC cement: comparison and pros/cons",
+      "error": "Content generation failed",
+      "generated_at": "2026-03-27T11:14:58.818929",
+      "structuring_report": {
+        "error": "Content generation failed - cannot structure",
+        "geo_score": 0.0
+      }
+    },
+    {
+      "query": "OPC vs PPC cement: which is better for structural concrete",
+      "error": "Content generation failed",
+      "generated_at": "2026-03-27T11:14:58.821116",
+      "structuring_report": {
+        "error": "Content generation failed - cannot structure",
+        "geo_score": 0.0
+      }
+    },
+    {
+      "query": "Ambuja vs JK cement: quality and performance",
+      "error": "Content generation failed",
+      "generated_at": "2026-03-27T11:14:58.821116",
+      "structuring_report": {
+        "error": "Content generation failed - cannot structure",
+        "geo_score": 0.0
+      }
+    }
+  ]
+}

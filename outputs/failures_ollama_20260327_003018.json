@@ -1,0 +1,254 @@
+[
+  {
+    "query": "which cement is best for house construction in India",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:03.124701",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for high-rise buildings",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:03.126868",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for foundations and footings",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:03.165603",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for flooring and tiles",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:06.196374",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for plastering walls",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:06.197981",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for waterproofing basement construction",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:06.200193",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for roof casting",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:09.235236",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "OPC vs PPC cement which is better for structural concrete",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:09.237118",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for RCC slabs",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:09.240822",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement should I use for boundary walls",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:12.265871",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "best cement for swimming pool construction",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:12.267761",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for road construction in India",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:12.269569",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "best cement for industrial flooring",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:15.303024",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "best cement for precast concrete elements",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:15.305216",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement to use for white finish plastering",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:15.308407",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "Dalmia vs Shree cement strength and durability",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:18.337687",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "Ambuja vs JK cement quality and performance",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:18.341747",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "UltraTech vs ACC cement comparison and pros cons",
+    "engine": "ollama",
+    "model": "llama2",
+    "response": null,
+    "timestamp": "2026-03-27T00:30:18.342068",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "timestamp": "2026-03-27T11:06:18.331761",
+  "queries_analyzed": 3,
+  "successful_analyses": 0,
+  "pipeline_source": "outputs\\responses_nvidia_20260327_105055.json",
+  "results": [
+    {
+      "query": "best cement for house construction in India",
+      "error": "API request failed: 429 Client Error: Too Many Requests for url: https://serpapi.com/search?q=best+cement+for+house+construction+in+India&api_key=9f62af1e5836a9a33ac03a7c5372ef4f105d7ab3fdeea281dcfbffc1d3f011b8&num=10&location=India&hl=en&gl=in",
+      "serp_domains": [],
+      "llm_domains": [],
+      "geo_score": 0.0,
+      "uncited_rankers": [],
+      "cited_not_ranking": [],
+      "recommendations": [
+        "SERP analysis failed - check API key"
+      ]
+    },
+    {
+      "query": "UltraTech vs ACC cement comparison",
+      "error": "API request failed: 429 Client Error: Too Many Requests for url: https://serpapi.com/search?q=UltraTech+vs+ACC+cement+comparison&api_key=9f62af1e5836a9a33ac03a7c5372ef4f105d7ab3fdeea281dcfbffc1d3f011b8&num=10&location=India&hl=en&gl=in",
+      "serp_domains": [],
+      "llm_domains": [],
+      "geo_score": 0.0,
+      "uncited_rankers": [],
+      "cited_not_ranking": [],
+      "recommendations": [
+        "SERP analysis failed - check API key"
+      ]
+    },
+    {
+      "query": "which cement brand is most trusted in India",
+      "error": "API request failed: 429 Client Error: Too Many Requests for url: https://serpapi.com/search?q=which+cement+brand+is+most+trusted+in+India&api_key=9f62af1e5836a9a33ac03a7c5372ef4f105d7ab3fdeea281dcfbffc1d3f011b8&num=10&location=India&hl=en&gl=in",
+      "serp_domains": [],
+      "llm_domains": [],
+      "geo_score": 0.0,
+      "uncited_rankers": [],
+      "cited_not_ranking": [],
+      "recommendations": [
+        "SERP analysis failed - check API key"
+      ]
+    }
+  ]
+}

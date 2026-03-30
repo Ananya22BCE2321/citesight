@@ -1,0 +1,72 @@
+[
+  {
+    "query": "which cement is best for house construction in India",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-23T19:51:45.810193",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for foundations and footings",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-23T19:51:45.812859",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for plastering walls",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-23T19:51:49.299788",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for high-rise buildings",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-23T19:51:49.302088",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for flooring and tiles",
+    "engine": "google",
+    "model": "gemini-1.5-flash",
+    "response": null,
+    "timestamp": "2026-03-23T19:51:52.980300",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  }
+]

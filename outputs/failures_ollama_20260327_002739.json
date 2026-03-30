@@ -1,0 +1,72 @@
+[
+  {
+    "query": "which cement is best for foundations and footings",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:27:33.565403",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for house construction in India",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:27:33.567438",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for plastering walls",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:27:36.602202",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for high-rise buildings",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:27:36.606035",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for flooring and tiles",
+    "engine": "ollama",
+    "model": "llama3",
+    "response": null,
+    "timestamp": "2026-03-27T00:27:39.628415",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  }
+]

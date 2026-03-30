@@ -1,0 +1,356 @@
+{
+  "generated_at": "2026-03-27T11:10:40.537156",
+  "runs_analysed": 17,
+  "total_queries": 215,
+  "brand_frequency": {
+    "ultratech": 66,
+    "acc": 63,
+    "ambuja": 55,
+    "jk": 46,
+    "lafarge": 41,
+    "holcim": 35,
+    "shree": 30,
+    "birla": 14,
+    "dalmia": 11,
+    "ramco": 7,
+    "heidelberg": 6,
+    "orient": 2
+  },
+  "domain_frequency": {},
+  "provider_comparison": {
+    "google": {
+      "total_queries": 10,
+      "successful_queries": 0,
+      "total_citations": 0,
+      "total_quality_score": 0.0,
+      "brand_counts": {},
+      "avg_citations": 0.0,
+      "avg_quality": 0.0
+    },
+    "nvidia": {
+      "total_queries": 151,
+      "successful_queries": 151,
+      "total_citations": 0,
+      "total_quality_score": 0.0,
+      "brand_counts": {
+        "ultratech": 66,
+        "acc": 63,
+        "ambuja": 55,
+        "jk": 46,
+        "lafarge": 41
+      },
+      "avg_citations": 0.0,
+      "avg_quality": 0.0
+    },
+    "ollama": {
+      "total_queries": 54,
+      "successful_queries": 0,
+      "total_citations": 0,
+      "total_quality_score": 0.0,
+      "brand_counts": {},
+      "avg_citations": 0.0,
+      "avg_quality": 0.0
+    }
+  },
+  "category_performance": {
+    "product_selection": {
+      "total_queries": 166,
+      "successful_queries": 112,
+      "total_citations": 0,
+      "total_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "avg_quality": 0.0
+    },
+    "unknown": {
+      "total_queries": 8,
+      "successful_queries": 4,
+      "total_citations": 0,
+      "total_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "avg_quality": 0.0
+    },
+    "brand_comparison": {
+      "total_queries": 39,
+      "successful_queries": 33,
+      "total_citations": 0,
+      "total_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "avg_quality": 0.0
+    },
+    "technical": {
+      "total_queries": 2,
+      "successful_queries": 2,
+      "total_citations": 0,
+      "total_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "avg_quality": 0.0
+    }
+  },
+  "citation_trend": [
+    {
+      "timestamp": "2026-03-27T11:10:40.537156",
+      "source_file": "responses_nvidia_20260323_154525.json",
+      "avg_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "query_count": 5
+    },
+    {
+      "timestamp": "2026-03-27T11:10:40.537156",
+      "source_file": "responses_nvidia_20260323_154716.json",
+      "avg_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "query_count": 5
+    },
+    {
+      "timestamp": "2026-03-27T11:10:40.537156",
+      "source_file": "responses_nvidia_20260323_154746.json",
+      "avg_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "query_count": 5
+    },
+    {
+      "timestamp": "2026-03-27T11:10:40.537156",
+      "source_file": "responses_nvidia_20260323_194456.json",
+      "avg_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "query_count": 10
+    },
+    {
+      "timestamp": "2026-03-27T11:10:40.537156",
+      "source_file": "responses_nvidia_20260323_195219.json",
+      "avg_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "query_count": 5
+    },
+    {
+      "timestamp": "2026-03-27T11:10:40.537156",
+      "source_file": "responses_nvidia_20260327_002219.json",
+      "avg_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "query_count": 10
+    },
+    {
+      "timestamp": "2026-03-27T11:10:40.537156",
+      "source_file": "responses_nvidia_20260327_002304.json",
+      "avg_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "query_count": 18
+    },
+    {
+      "timestamp": "2026-03-27T11:10:40.537156",
+      "source_file": "responses_nvidia_20260327_002725.json",
+      "avg_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "query_count": 5
+    },
+    {
+      "timestamp": "2026-03-27T11:10:40.537156",
+      "source_file": "responses_nvidia_20260327_002828.json",
+      "avg_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "query_count": 13
+    },
+    {
+      "timestamp": "2026-03-27T11:10:40.537156",
+      "source_file": "responses_nvidia_20260327_003001.json",
+      "avg_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "query_count": 13
+    },
+    {
+      "timestamp": "2026-03-27T11:10:40.537156",
+      "source_file": "responses_nvidia_20260327_093918.json",
+      "avg_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "query_count": 31
+    },
+    {
+      "timestamp": "2026-03-27T11:10:40.537156",
+      "source_file": "responses_nvidia_20260327_105055.json",
+      "avg_quality_score": 0.0,
+      "avg_citations": 0.0,
+      "query_count": 31
+    }
+  ],
+  "geo_gap_analysis": {
+    "zero_citation_queries": [
+      {
+        "query": "which cement is best for waterproofing",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "UltraTech vs ACC cement: comparison and pros/cons",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "OPC vs PPC cement: which is better for structural concrete",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "Ambuja vs JK cement: quality and performance",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      }
+    ],
+    "low_citation_queries": [
+      {
+        "query": "which cement is best for house construction in India",
+        "providers_tested": 3,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "which cement is best for high-rise buildings",
+        "providers_tested": 3,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "which cement is best for foundations and footings",
+        "providers_tested": 3,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "which cement is best for plastering walls",
+        "providers_tested": 3,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "which cement is best for flooring and tiles",
+        "providers_tested": 3,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "which cement is best for RCC slabs",
+        "providers_tested": 3,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "which cement is best for waterproofing basement construction",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "which cement is best for roof casting",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "OPC vs PPC cement which is better for structural concrete",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "which cement should I use for boundary walls",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "best cement for swimming pool construction",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "which cement is best for road construction in India",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "which cement to use for white finish plastering",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "best cement for precast concrete elements",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "best cement for industrial flooring",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "UltraTech vs ACC cement comparison and pros cons",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "Ambuja vs JK cement quality and performance",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "Dalmia vs Shree cement strength and durability",
+        "providers_tested": 2,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "best cement brands in India ranked",
+        "providers_tested": 1,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "Orient Cement vs India Cements how they compare",
+        "providers_tested": 1,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "which cement brand do civil engineers prefer in India",
+        "providers_tested": 1,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "Ramco cement vs UltraTech cement which is better",
+        "providers_tested": 1,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "Birla cement vs Ambuja cement comparison",
+        "providers_tested": 1,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "Nuvoco vs Dalmia cement quality comparison",
+        "providers_tested": 1,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "Wonder Cement vs JK Cement which is better",
+        "providers_tested": 1,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "Heidelberg cement vs ACC cement India",
+        "providers_tested": 1,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "Penna cement vs Ramco cement south India",
+        "providers_tested": 1,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "which cement brand is most trusted by contractors in India",
+        "providers_tested": 1,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "Shree cement vs UltraTech cement for home construction",
+        "providers_tested": 1,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "premium vs budget cement brands India worth the difference",
+        "providers_tested": 1,
+        "avg_citations": 0.0
+      },
+      {
+        "query": "cement storage guidelines and best practices",
+        "providers_tested": 1,
+        "avg_citations": 0.0
+      }
+    ]
+  }
+}

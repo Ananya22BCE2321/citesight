@@ -1,0 +1,32 @@
+[
+  {
+    "query": "which cement is best for foundations and footings",
+    "engine": "ollama",
+    "model": "meta/llama-3.1-8b-instruct",
+    "response": null,
+    "timestamp": "2026-03-27T11:11:55.815429",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts",
+    "error_details": "model 'meta/llama-3.1-8b-instruct' not found (status code: 404)"
+  },
+  {
+    "query": "which cement is best for house construction in India",
+    "engine": "ollama",
+    "model": "meta/llama-3.1-8b-instruct",
+    "response": null,
+    "timestamp": "2026-03-27T11:11:55.817426",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts",
+    "error_details": "model 'meta/llama-3.1-8b-instruct' not found (status code: 404)"
+  }
+]

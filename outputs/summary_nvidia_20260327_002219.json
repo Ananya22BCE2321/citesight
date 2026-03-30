@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260327_002219",
+  "provider": "nvidia",
+  "model": "meta/llama-3.1-8b-instruct",
+  "total_queries": 10,
+  "successful": 10,
+  "failed": 0,
+  "budget_stopped": 0,
+  "total_cost_usd": 0.0,
+  "total_tokens": 5331,
+  "output_file": "outputs\\responses_nvidia_20260327_002219.json",
+  "failure_file": null
+}

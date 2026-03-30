@@ -1,0 +1,110 @@
+{
+  "timestamp": "2026-03-27T11:07:39.586194",
+  "queries_analyzed": 3,
+  "successful_analyses": 3,
+  "pipeline_source": "outputs\\responses_nvidia_20260327_105055.json",
+  "results": [
+    {
+      "query": "best cement for house construction in India",
+      "serp_domains": [
+        "ultratechcement.com",
+        "ambujacement.com",
+        "acclimited.com",
+        "jkcement.com",
+        "shreecement.com",
+        "dalmiacement.com",
+        "indiacements.com",
+        "ramcocements.com",
+        "birla.com",
+        "pennacement.com"
+      ],
+      "llm_domains": [],
+      "geo_score": 0.0,
+      "uncited_rankers": [
+        "acclimited.com",
+        "birla.com",
+        "ultratechcement.com",
+        "dalmiacement.com",
+        "pennacement.com",
+        "ramcocements.com",
+        "shreecement.com",
+        "jkcement.com",
+        "ambujacement.com",
+        "indiacements.com"
+      ],
+      "cited_not_ranking": [],
+      "recommendations": [
+        "Low GEO alignment - citations don't match SERP rankings",
+        "Consider citing ranking domains: acclimited.com, birla.com, ultratechcement.com"
+      ]
+    },
+    {
+      "query": "UltraTech vs ACC cement comparison",
+      "serp_domains": [
+        "ultratechcement.com",
+        "ambujacement.com",
+        "acclimited.com",
+        "jkcement.com",
+        "shreecement.com",
+        "dalmiacement.com",
+        "indiacements.com",
+        "ramcocements.com",
+        "birla.com",
+        "pennacement.com"
+      ],
+      "llm_domains": [],
+      "geo_score": 0.0,
+      "uncited_rankers": [
+        "acclimited.com",
+        "birla.com",
+        "ultratechcement.com",
+        "dalmiacement.com",
+        "pennacement.com",
+        "ramcocements.com",
+        "shreecement.com",
+        "jkcement.com",
+        "ambujacement.com",
+        "indiacements.com"
+      ],
+      "cited_not_ranking": [],
+      "recommendations": [
+        "Low GEO alignment - citations don't match SERP rankings",
+        "Consider citing ranking domains: acclimited.com, birla.com, ultratechcement.com"
+      ]
+    },
+    {
+      "query": "which cement brand is most trusted in India",
+      "serp_domains": [
+        "ultratechcement.com",
+        "ambujacement.com",
+        "acclimited.com",
+        "jkcement.com",
+        "shreecement.com",
+        "dalmiacement.com",
+        "indiacements.com",
+        "ramcocements.com",
+        "birla.com",
+        "pennacement.com"
+      ],
+      "llm_domains": [],
+      "geo_score": 0.0,
+      "uncited_rankers": [
+        "acclimited.com",
+        "birla.com",
+        "ultratechcement.com",
+        "dalmiacement.com",
+        "pennacement.com",
+        "ramcocements.com",
+        "shreecement.com",
+        "jkcement.com",
+        "ambujacement.com",
+        "indiacements.com"
+      ],
+      "cited_not_ranking": [],
+      "recommendations": [
+        "Low GEO alignment - citations don't match SERP rankings",
+        "Consider citing ranking domains: acclimited.com, birla.com, ultratechcement.com"
+      ]
+    }
+  ]
+}

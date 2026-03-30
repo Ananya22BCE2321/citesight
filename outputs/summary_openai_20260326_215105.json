@@ -1,0 +1,13 @@
+{
+  "timestamp": "20260326_215105",
+  "provider": "openai",
+  "model": "gpt-4o-mini",
+  "total_queries": 10,
+  "successful": 0,
+  "failed": 10,
+  "budget_stopped": 0,
+  "total_cost_usd": 0.0,
+  "total_tokens": 0,
+  "output_file": "outputs\\responses_openai_20260326_215105.json",
+  "failure_file": "outputs\\failures_openai_20260326_215105.json"
+}

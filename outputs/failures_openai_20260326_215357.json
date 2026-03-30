@@ -1,0 +1,142 @@
+[
+  {
+    "query": "which cement is best for foundations and footings",
+    "engine": "openai",
+    "model": "gpt-4o",
+    "response": null,
+    "timestamp": "2026-03-26T21:53:45.549663",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for house construction in India",
+    "engine": "openai",
+    "model": "gpt-4o",
+    "response": null,
+    "timestamp": "2026-03-26T21:53:45.551503",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for high-rise buildings",
+    "engine": "openai",
+    "model": "gpt-4o",
+    "response": null,
+    "timestamp": "2026-03-26T21:53:45.591592",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for waterproofing",
+    "engine": "openai",
+    "model": "gpt-4o",
+    "response": null,
+    "timestamp": "2026-03-26T21:53:49.458984",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for plastering walls",
+    "engine": "openai",
+    "model": "gpt-4o",
+    "response": null,
+    "timestamp": "2026-03-26T21:53:49.529599",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for flooring and tiles",
+    "engine": "openai",
+    "model": "gpt-4o",
+    "response": null,
+    "timestamp": "2026-03-26T21:53:49.530896",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "which cement is best for RCC slabs",
+    "engine": "openai",
+    "model": "gpt-4o",
+    "response": null,
+    "timestamp": "2026-03-26T21:53:53.334569",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "OPC vs PPC cement: which is better for structural concrete",
+    "engine": "openai",
+    "model": "gpt-4o",
+    "response": null,
+    "timestamp": "2026-03-26T21:53:53.403630",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "UltraTech vs ACC cement: comparison and pros/cons",
+    "engine": "openai",
+    "model": "gpt-4o",
+    "response": null,
+    "timestamp": "2026-03-26T21:53:53.409555",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  },
+  {
+    "query": "Ambuja vs JK cement: quality and performance",
+    "engine": "openai",
+    "model": "gpt-4o",
+    "response": null,
+    "timestamp": "2026-03-26T21:53:57.217648",
+    "usage": {
+      "prompt_tokens": 0,
+      "completion_tokens": 0,
+      "total_tokens": 0
+    },
+    "cost": 0.0,
+    "error": "failed_after_3_attempts"
+  }
+]

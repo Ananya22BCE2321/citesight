@@ -1,0 +1,44 @@
+{
+  "timestamp": "2026-03-27T11:02:04.911009",
+  "queries_analyzed": 3,
+  "successful_analyses": 0,
+  "pipeline_source": "outputs\\responses_nvidia_20260327_105055.json",
+  "results": [
+    {
+      "query": "best cement for house construction in India",
+      "error": "No SerpAPI key configured",
+      "serp_domains": [],
+      "llm_domains": [],
+      "geo_score": 0.0,
+      "uncited_rankers": [],
+      "cited_not_ranking": [],
+      "recommendations": [
+        "SERP analysis failed - check API key"
+      ]
+    },
+    {
+      "query": "UltraTech vs ACC cement comparison",
+      "error": "No SerpAPI key configured",
+      "serp_domains": [],
+      "llm_domains": [],
+      "geo_score": 0.0,
+      "uncited_rankers": [],
+      "cited_not_ranking": [],
+      "recommendations": [
+        "SERP analysis failed - check API key"
+      ]
+    },
+    {
+      "query": "which cement brand is most trusted in India",
+      "error": "No SerpAPI key configured",
+      "serp_domains": [],
+      "llm_domains": [],
+      "geo_score": 0.0,
+      "uncited_rankers": [],
+      "cited_not_ranking": [],
+      "recommendations": [
+        "SERP analysis failed - check API key"
+      ]
+    }
+  ]
+}
